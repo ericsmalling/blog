@@ -1,0 +1,3 @@
+[submodule "themes/detox"]
+	path = themes/detox
+	url = git@github.com:ericsmalling/hugo-theme-blueberry-detox.git
