@@ -1,7 +1,7 @@
 ---
 title: "Welcome!"
 date: 2020-09-12T22:28:32-05:00
-draft: true
+draft: false
 ---
 I've been toying with the idea of starting my own blog for many years; even tried my hand at it almost a decade ago but life always seemed to get in the way.
 

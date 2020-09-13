@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.ericsmalling.com/categories/</loc>
+    <loc>http://www.ericsmalling.com/</loc>
+    <lastmod>2020-09-12T22:28:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ericsmalling.com/</loc>
+    <loc>http://www.ericsmalling.com/posts/</loc>
+    <lastmod>2020-09-12T22:28:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericsmalling.com/posts/welcome/</loc>
+    <lastmod>2020-09-12T22:28:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericsmalling.com/categories/</loc>
   </url>
   
   <url>
