@@ -3,3 +3,10 @@ languageCode = "en-us"
 title = "EricSmalling.com"
 theme = "detox"
 publishDir = "docs"
+
+[params]
+    author = "Eric A. Smalling"
+    twitter_name = "ericsmalling"
+    github = "ericsmalling"
+    linkedin = "ericsmalling"
+
