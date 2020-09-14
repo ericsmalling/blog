@@ -7,7 +7,7 @@
 <head>
             <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="">
+        <meta name="description" content="You know that White &amp; Nerdy song?  Yeah, that kind of stuff.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,7 +23,7 @@
         <meta property="og:site_name" content="EricSmalling.com">
         <meta property="og:title" content="EricSmalling.com">
         <meta property="og:url" content="http://www.ericsmalling.com/categories/">
-        <meta property="og:description" content="">
+        <meta property="og:description" content="You know that White &amp; Nerdy song?  Yeah, that kind of stuff.">
     
         <meta property="og:type" content="website" />
     
@@ -50,9 +50,28 @@
     <header id="site-header">
         <div class="container">
             <a href="http://www.ericsmalling.com/" alt="EricSmalling.com"><h1 class="blog-title heading">EricSmalling.com</h1></a>
-            <p class="blog-description"></p>
+            <a href="https://www.dack.com/web/bullshit.html" alt="BS Generator credits to Dak.com" target="_blank"><p class="blog-description"></p></a>
+
+
+    <script>
+        var verbs =  ["implement","utilize","integrate","streamline","optimize","evolve","transform","embrace","enable","orchestrate","leverage","reinvent","aggregate","architect","enhance","incentivize","morph","empower","envisioneer","monetize","harness","facilitate","seize","disintermediate","synergize","strategize","deploy","brand","grow","target","syndicate","synthesize","deliver","mesh","incubate","engage","maximize","benchmark","expedite","reintermediate","whiteboard","visualize","repurpose","innovate","scale","unleash","drive","extend","engineer","revolutionize","generate","exploit","transition","e-enable","iterate","cultivate","matrix","productize","redefine","recontextualize","disrupt","containerize","orchestrate","accelerate",""];
+        var adjectives = ["clicks-and-mortar","value-added","vertical","proactive","robust","revolutionary","scalable","leading-edge","innovative","intuitive","strategic","e-business","mission-critical","sticky","one-to-one","24/7","end-to-end","global","B2B","B2C","granular","frictionless","virtual","viral","dynamic","24/365","best-of-breed","killer","magnetic","bleeding-edge","web-enabled","interactive","dot-com","sexy","back-end","real-time","efficient","front-end","distributed","seamless","extensible","turn-key","world-class","open-source","cross-platform","cross-media","synergistic","bricks-and-clicks","out-of-the-box","enterprise","integrated","impactful","wireless","transparent","next-generation","cutting-edge","user-centric","visionary","customized","ubiquitous","plug-and-play","collaborative","compelling","holistic","rich"];
+        var nouns = ["synergies","web-readiness","paradigms","markets","partnerships","infrastructures","platforms","initiatives","channels","eyeballs","communities","ROI","solutions","e-tailers","e-services","action-items","portals","niches","technologies","content","vortals","supply-chains","convergence","relationships","architectures","interfaces","e-markets","e-commerce","systems","bandwidth","infomediaries","models","mindshare","deliverables","users","schemas","networks","applications","metrics","e-business","functionalities","experiences","web services","methodologies","Kubernetes"];
+
+        var node = document.createTextNode("Helping companies "
+            + verbs[Math.floor(Math.random() * verbs.length)] + " "
+            + adjectives[Math.floor(Math.random() * adjectives.length)] + " "
+            + nouns[Math.floor(Math.random() * nouns.length)]
+            + " since MCMXCI");
+
+        var element = document.getElementsByClassName("blog-description")[0];
+        element.appendChild( node );
+
+    </script>
         </div>
     </header>
+
+
 <main class="content" role="main">
 	<div class="container">
 	
