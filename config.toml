@@ -3,13 +3,25 @@ languageCode = "en-us"
 title = "EricSmalling.com"
 theme = "detox"
 publishDir = "docs"
+sectionPagesMenu = "main"
+
+[menu]
+
+    [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    title = "about"
+    url = "/about/"
+    weight = -110
 
 [params]
+    description = "BS Generator credits to Dak.com"
     author = "Eric A. Smalling"
     email = "blog@ericsmalling.com"
     twitter_name = "ericsmalling"
     github = "ericsmalling"
     linkedin = "ericsmalling"
+
 
 #   Header B.S. generator inspired by and initial vocabulary copied from Dack.com Web Economy B.S. Generator https://www.dack.com/web/bullshit.html
     header_verbs = [ "implement", "utilize", "integrate", "streamline", "optimize", "evolve", "transform", "embrace",
