@@ -1,4 +1,4 @@
-baseURL = "https://www.ericsmalling.com/"
+baseURL = "www.ericsmalling.com/"
 languageCode = "en-us"
 title = "EricSmalling.com"
 theme = "detox"
