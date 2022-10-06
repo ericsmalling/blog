@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.ericsmalling.com/</loc>
+    <loc>https://www.ericsmalling.com/</loc>
     <lastmod>2020-09-12T22:28:32-05:00</lastmod>
   </url><url>
-    <loc>www.ericsmalling.com/posts/</loc>
+    <loc>https://www.ericsmalling.com/posts/</loc>
     <lastmod>2020-09-12T22:28:32-05:00</lastmod>
   </url><url>
-    <loc>www.ericsmalling.com/posts/welcome/</loc>
+    <loc>https://www.ericsmalling.com/posts/welcome/</loc>
     <lastmod>2020-09-12T22:28:32-05:00</lastmod>
   </url><url>
-    <loc>www.ericsmalling.com/categories/</loc>
+    <loc>https://www.ericsmalling.com/categories/</loc>
   </url><url>
-    <loc>www.ericsmalling.com/tags/</loc>
+    <loc>https://www.ericsmalling.com/tags/</loc>
   </url>
 </urlset>
