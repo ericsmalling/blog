@@ -1,9 +1,11 @@
 h1,h2,h3{
-  color: white;
+  color: white !important;
+  text-shadow: 0 0 5px #C8C8C8 !important;
 }
 
 a{
-  color: rgba(200, 230, 290, .9)
+  color: white !important;
+  text-shadow: none;
 }
 
 body{
@@ -11,8 +13,8 @@ body{
   background-image: radial-gradient(
     rgba(50, 60, 90, 0.5), black 120%
   );
-  height: 100vh;
-  margin: 0;
+  /* height: 100vh; */
+  /* margin: 0; */
   overflow: hidden;
   padding: 2rem;
   color: white;
