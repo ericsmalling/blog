@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EricSmalling.com</title>
-    <link>http://www.ericsmalling.com/</link>
+    <link>https://www.ericsmalling.com/</link>
     <description>Recent content on EricSmalling.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 22:28:32 -0500</lastBuildDate><atom:link href="http://www.ericsmalling.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Sep 2020 22:28:32 -0500</lastBuildDate><atom:link href="https://www.ericsmalling.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
-      <link>http://www.ericsmalling.com/posts/welcome/</link>
+      <link>https://www.ericsmalling.com/posts/welcome/</link>
       <pubDate>Sat, 12 Sep 2020 22:28:32 -0500</pubDate>
       
-      <guid>http://www.ericsmalling.com/posts/welcome/</guid>
+      <guid>https://www.ericsmalling.com/posts/welcome/</guid>
       <description>I&amp;rsquo;ve been toying with the idea of starting my own blog for many years; even tried my hand at it almost a decade ago but life always seemed to get in the way.
 Now that I&amp;rsquo;ve entered the last year of by 4th decade on this planet, I&amp;rsquo;ve decided that I&amp;rsquo;m finally going to have a go at this and hopefully can add some value to this little corner of the internet.</description>
     </item>

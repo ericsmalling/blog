@@ -1,0 +1,39 @@
+h1,h2,h3{
+  color: white !important;
+  text-shadow: 0 0 5px #C8C8C8 !important;
+}
+
+a{
+  color: white !important;
+  text-shadow: none;
+}
+
+body{
+  background-color: black !important;
+  background-image: radial-gradient(
+    rgba(50, 60, 90, 0.5), black 120%
+  );
+  /* height: 100vh; */
+  /* margin: 0; */
+  overflow: hidden;
+  padding: 2rem;
+  color: white;
+  /* font: 1.3rem Incosolata, monospace; */
+  text-shadow: 0 0 5px #C8C8C8;
+}
+
+/* body::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(black, 0.15),
+      rgba(black, 0.15) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+} */
