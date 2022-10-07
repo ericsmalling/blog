@@ -10,6 +10,7 @@ publishDir = "docs"
     twitter_name = "ericsmalling"
     github = "ericsmalling"
     linkedin = "ericsmalling"
+    copyright = "2022"
 
 #   Header B.S. generator inspired by and initial vocabulary copied from Dack.com Web Economy B.S. Generator https://www.dack.com/web/bullshit.html
     header_verbs = [ "implement", "utilize", "integrate", "streamline", "optimize", "evolve", "transform", "embrace",
