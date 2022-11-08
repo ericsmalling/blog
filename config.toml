@@ -10,6 +10,7 @@ publishDir = "docs"
     twitter_name = "ericsmalling"
     github = "ericsmalling"
     linkedin = "ericsmalling"
+    mastodon = "https://hachyderm.io/@ericsmalling"
     copyright = "2022"
 
 #   Header B.S. generator inspired by and initial vocabulary copied from Dack.com Web Economy B.S. Generator https://www.dack.com/web/bullshit.html
