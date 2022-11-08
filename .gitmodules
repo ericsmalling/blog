@@ -2,6 +2,3 @@
 	path = themes/detox
 	url = git@github.com:ericsmalling/hugo-theme-blueberry-detox.git
 	branch = ericsmalling.com
-[submodule "themes/future-imperfect"]
-	path = themes/future-imperfect
-	url = git@github.com:ericsmalling/hugo-future-imperfect.git
