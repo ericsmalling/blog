@@ -6,7 +6,18 @@
     <description>Recent content on EricSmalling.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Oct 2022 19:00:11 -0500</lastBuildDate><atom:link href="https://www.ericsmalling.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 11:59:26 -0500</lastBuildDate><atom:link href="https://www.ericsmalling.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker turns 10!</title>
+      <link>https://www.ericsmalling.com/posts/docker-turns-10/</link>
+      <pubDate>Thu, 08 Jun 2023 11:59:26 -0500</pubDate>
+      
+      <guid>https://www.ericsmalling.com/posts/docker-turns-10/</guid>
+      <description>It&amp;rsquo;s hard to believe I&amp;rsquo;ve been using Docker for almost a decade old now!
+In celebration of Solomon Hykes historic introduction of the now-ubiquitous tool at PyCon 2013, I posted this retrospective on my company&amp;rsquo;s blog. I hope you enjoy it!
+Can you believe that the @Docker open-source project is now a decade old? Join me on a trip down memory lane with ten friends I&amp;#39;ve met along the way recounting how the container revolution changed our careers.</description>
+    </item>
+    
     <item>
       <title>Someday</title>
       <link>https://www.ericsmalling.com/posts/someday/</link>
